@@ -1,13 +1,5 @@
-<template>
-  <div>Home View</div>
-</template>
+<template src="./Home.html"></template>
 
-<script>
-export default {
+<script lang='ts' src="./Home.ts"></script>
 
-}
-</script>
-
-<style>
-
-</style>
+<style lang="scss" src="./Home.scss" scoped></style>
